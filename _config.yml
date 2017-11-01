@@ -6,7 +6,7 @@
 name: CoderDojo 立川
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: 東京都立川市で毎月開催
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://coderdojotachikawa.github.io/images/logo.jpg
@@ -19,9 +19,9 @@ avatar: https://coderdojotachikawa.github.io/images/logo.jpg
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/CoderDojoTachikawa
   flickr:
-  github: barryclark/jekyll-now
+  github:
   instagram:
   linkedin:
   pinterest:
@@ -29,7 +29,7 @@ footer-links:
   twitter: CoderDojoTckw
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: 110524554027959982537 # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
