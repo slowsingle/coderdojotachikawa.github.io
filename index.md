@@ -29,7 +29,7 @@ CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場�
 はじめてのかたには、簡単にゲームやアニメーションなどをつくることができる教育用プログラミング言語のスクラッチを推奨しており、最初にメンターが操作方法や簡単なゲームのつくりかたをガイドしております。
 
 ## 学べること
-### ゲーム
+### ゲーム、アニメーションなど
 * Scratch
 * Minecraft
 <!--
@@ -40,6 +40,7 @@ CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場�
 * javascript
 
 ### 電子工作
+* MINDSTORMS
 * Raspberry Pi
 * Arduino
 
@@ -48,7 +49,7 @@ CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場�
 * Inkscape
 * blender
 * MMD
-* AviUtil
+* AviUtl
 * FL Studio
 * GarageBand
 * アイロンビーズ
