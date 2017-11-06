@@ -32,6 +32,7 @@ CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場�
 ### ゲーム
 * Scratch
 * Minecraft
+<!--
 * Unity
 
 ### ホームページ作成
@@ -42,10 +43,16 @@ CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場�
 * Raspberry Pi
 * Arduino
 
-### アート（CG、音楽など）
+### アート（CG、映像、音楽など）
+* GMP
+* Inkscape
 * blender
+* MMD
+* AviUtil
+* FL Studio
 * GarageBand
 * アイロンビーズ
+-->
 
 など<br>
 ※対応できることは、当日のメンターにより異なります。
