@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 会計レポート
+title: 会計報告
 permalink: /accounting
 ---
 
