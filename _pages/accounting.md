@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 会計レポート
-permalink: /_pages/accounting
+permalink: /accounting
 ---
 
 

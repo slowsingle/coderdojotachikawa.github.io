@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 作品紹介
-permalink: /_pages/stuff
+permalink: /stuff
 ---
 
 # ニンジャたちの作品
