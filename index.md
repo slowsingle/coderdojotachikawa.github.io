@@ -87,6 +87,12 @@ Dojo では会場を動き回ったり、声をかけあったり自分で調べ
 
 ---
 
+# スケジュール
+イベントの開催スケジュールです。
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1G1y4N9iaUYn1sny5khnT6YRZ3JMdmjGLL8bo5ZrmQ0OSspSkcGWKidfd_2x2lnAY4D3m_3VhT5bl/pubhtml?gid=0&single=true&widget=true&headers=false" width="100%" height="480"></iframe>
+
+---
 ## コミュニティ
 活動の最新情報は[コミュニティ](https://facebook.com/CoderDojoTachikawa) （FBページ）にて配信いたします。<br>
 情報を受け取りたい場合はコミュニティメンバーへの参加をお願いします！<br>
