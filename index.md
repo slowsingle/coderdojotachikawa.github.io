@@ -90,7 +90,7 @@ Dojo では会場を動き回ったり、声をかけあったり自分で調べ
 # スケジュール
 イベントの開催スケジュールです。
 
-<iframe src="https://calendar.google.com/calendar/embed?src=coderdojo.tachikawa%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=coderdojo.tachikawa%40gmail.com&ctz=Asia%2FTokyo" style="border: 0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!--
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS1G1y4N9iaUYn1sny5khnT6YRZ3JMdmjGLL8bo5ZrmQ0OSspSkcGWKidfd_2x2lnAY4D3m_3VhT5bl/pubhtml?gid=0&single=true&widget=true&headers=false" width="100%" height="480"></iframe>
