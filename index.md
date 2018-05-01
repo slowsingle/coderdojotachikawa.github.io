@@ -3,8 +3,6 @@ layout: page
 title: CoderDojo 立川
 permalink: /index
 ---
-<meta name="google-site-verification" content="9_0dXoK0A-SuyMbTWhDrkB6aqQdhaCby_wuwUxkyCNk" />
-![Cover Photo](https://drive.google.com/uc?export=view&id=1HIEbd8xY6Jt73y5RWtTnbgcnNKYXnBrk)
 
 # CoderDojo とは
 CoderDojo は7〜17歳の子どもを対象にしたプログラミング道場です。2011年にアイルランドで始まり、世界では75カ国・1,400の道場、日本では全国に108以上の道場があります。<br>
