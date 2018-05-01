@@ -3,7 +3,7 @@ layout: page
 title: CoderDojo 立川
 permalink: /index
 ---
-
+<meta name="google-site-verification" content="9_0dXoK0A-SuyMbTWhDrkB6aqQdhaCby_wuwUxkyCNk" />
 ![Cover Photo](https://drive.google.com/uc?export=view&id=1HIEbd8xY6Jt73y5RWtTnbgcnNKYXnBrk)
 
 # CoderDojo とは
