@@ -659,15 +659,17 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #AAA;
+    background-color: #CCC;
     background-image: url('{{ site.baseurl }}/img/map-image.png');
     background-position: center;
     background-repeat: no-repeat;
 }
 
+/*
 section#contact .section-heading {
     color: #fff;
 }
+*/
 
 section#contact .form-group {
     margin-bottom: 25px;
