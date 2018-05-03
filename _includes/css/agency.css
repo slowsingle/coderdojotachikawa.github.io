@@ -867,10 +867,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
-
-section#album {
-    background-color: #222;
-    background-image: url('https://lh3.googleusercontent.com/r3a35z6bU2OUQasPOocDDwuvkz0K19z4t6N9Im2qgDII7XNtXF09lBGhc8TD84lQQUB3Gvm1sgVIVz91p-WfBnd5faQJzda7GqiErbHEjuY_EGELoYX-jSiSaskqZhnCtO6QUc805g=w2400');
-    background-position: center;
-    background-repeat: no-repeat;
-}
