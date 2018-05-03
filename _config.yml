@@ -9,57 +9,43 @@ description: "東京都立川市で毎月開催"
 google_analytics: UA-109369485-1
 
 # Team names, titles and social links
-people:
-- name: Kay Garland
+
+- name: CoderDojo 立川
   pic: 1
-  position: Lead Designer
+  position: 
   social:
     - title: twitter
-      url: #
+      url: https://twitter.com/coderdojotckw
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/CoderDojoTachikawa
+    - title: instagram
+      url: https://www.instagram.com/coderdojotachikawa
 
-- name: Larry Parker
+people:
+- name: 猪股 直規（いのまた なおき）
   pic: 2
-  position: Lead Marketer
+  position: チャンピオン
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: wordpress
+      url: https://soramoyou04.wpblog.jp/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+#social:
+#  - title: twitter
+#    url: http://twitter.com/jekyllrb
+#  - title: facebook
+#    url:
+#  - title: stack-overflow
+#    url: http://stackoverflow.com/questions/tagged/jekyll
+#  - title: bitbucket 
+#    url: http://bitbucket.org/jekyll
+#  - title: github
+#    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 立川市子ども未来センター
+  - line: 〒190-0022 立川市錦町3丁目2番26号
 
 # Build settings
 markdown: kramdown
