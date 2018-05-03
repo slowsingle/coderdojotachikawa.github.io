@@ -871,10 +871,6 @@ body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
 }
 
-section#accounting {
-    background-color: #EEC;
-}
-
 footer#footer {
     background-color: #000;
 }
