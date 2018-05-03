@@ -9,7 +9,7 @@ description: "東京都立川市で毎月開催"
 google_analytics: UA-109369485-1
 
 # Team names, titles and social links
-
+people:
 - name: CoderDojo 立川
   pic: 1
   position: SNSはこちら
@@ -21,7 +21,6 @@ google_analytics: UA-109369485-1
     - title: instagram
       url: https://www.instagram.com/coderdojotachikawa
 
-people:
 - name: 猪股 直規（いのまた なおき）
   pic: 2
   position: チャンピオン
