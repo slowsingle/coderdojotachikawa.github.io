@@ -1,3 +1,6 @@
+theme: jekyll-theme-slate
+google_analytics: UA-109369485-1
+
 url: "https://coderdojotachikawa.github.io"
 baseurl: "https://coderdojotachikawa.github.io"
 
@@ -5,8 +8,6 @@ baseurl: "https://coderdojotachikawa.github.io"
 title: CoderDojo 立川
 email: coderdojo.tachikawa@gmail.com
 description: "東京都立川市で毎月開催"
-
-google_analytics: UA-109369485-1
 
 # Team names, titles and social links
 people:
