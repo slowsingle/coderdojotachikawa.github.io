@@ -1,52 +1,57 @@
-theme: jekyll-theme-slate
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+title: 子どものためのプログラミング道場
+subtitle: CoderDojo 立川
+avatar: ../assets/images/1.jpg
+github:
+  owner_gravatar_url: https://github.com/CoderDojoTachikawa
+
+# Side Menu Links
+menu:
+  - text: トップ
+    link: /
+    icon: ""
+
+  - text: はじめての方へ
+    link: /skills-and-offers
+    icon: ""
+
+  - text: CoderDojo について
+    link: /skills-and-offers
+    icon: ""
+
+  - text: コミュニティ
+    link: /contact
+    icon: ""
+
+  - text: メンバー募集
+    link: /resume
+    icon: ""
+
+# Socialmedia Icons
+social_icons:
+  - name: linkedin
+    link: https://www.linkedin.com/christianezeani
+    icon: fab fa-linkedin
+
+  - name: github
+    link: https://github.com/christianezeani
+    icon: fab fa-github-square
+
+  - name: facebook
+    link: https://www.facebook.com/christian.ezeani.cyb
+    icon: fab fa-facebook-square
+
+  - name: twitter
+    link: https://www.twitter.com/christianezeani
+    icon: fab fa-twitter
+
+# Google Analytics
 google_analytics: UA-109369485-1
 
-url: "https://coderdojotachikawa.github.io"
-baseurl: "https://coderdojotachikawa.github.io"
-
-# Site settings
-title: 子どものためのプログラミング道場 - CoderDojo 立川
-email: coderdojo.tachikawa@gmail.com
-description: "東京都立川市で毎月開催"
-
-# Team names, titles and social links
-people:
-- name: CoderDojo 立川
-  pic: 1
-  position: SNSはこちら
-  social:
-    - title: twitter
-      url: https://twitter.com/coderdojotckw
-    - title: facebook
-      url: https://www.facebook.com/CoderDojoTachikawa
-    - title: instagram
-      url: https://www.instagram.com/coderdojotachikawa
-
-- name: いのっち（猪股 直規）
-  pic: 2
-  position: チャンピオン
-  social:
-    - title: wordpress
-      url: https://soramoyou04.wpblog.jp
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 立川市子ども未来センター
-  - line: 〒190-0022 立川市錦町3丁目2番26号
-
-# Build settings
-markdown: kramdown
-permalink: pretty
