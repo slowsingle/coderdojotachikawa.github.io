@@ -2,14 +2,102 @@
 layout: default
 ---
 
-# MY PROFILE
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Etiam dignissim diam quis enim. Tincidunt arcu non sodales neque. Pharetra pharetra massa massa ultricies. Massa vitae tortor condimentum lacinia quis vel eros. Lectus vestibulum mattis ullamcorper velit. Mauris cursus mattis molestie a iaculis. Faucibus interdum posuere lorem ipsum. Tristique risus nec feugiat in fermentum posuere. Egestas integer eget aliquet nibh praesent tristique magna sit. Diam donec adipiscing tristique risus nec feugiat in fermentum. Cursus metus aliquam eleifend mi in nulla posuere sollicitudin aliquam. Id porta nibh venenatis cras sed felis. Erat pellentesque adipiscing commodo elit at imperdiet dui. A arcu cursus vitae congue mauris. Vitae justo eget magna fermentum iaculis eu non diam. Faucibus nisl tincidunt eget nullam non nisi est sit.
-
-Risus nullam eget felis eget. Id faucibus nisl tincidunt eget nullam non nisi. Nam libero justo laoreet sit. Et pharetra pharetra massa massa ultricies mi. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Scelerisque eu ultrices vitae auctor. Consequat interdum varius sit amet mattis vulputate enim. Volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Eget dolor morbi non arcu risus quis varius. Quis viverra nibh cras pulvinar. Ac ut consequat semper viverra nam libero justo. Faucibus et molestie ac feugiat sed lectus vestibulum. Ac orci phasellus egestas tellus rutrum tellus pellentesque eu. Blandit turpis cursus in hac. At risus viverra adipiscing at in tellus integer feugiat scelerisque. Elementum nibh tellus molestie nunc. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Integer quis auctor elit sed vulputate mi sit amet mauris. Nibh sit amet commodo nulla facilisi nullam vehicula ipsum. Non pulvinar neque laoreet suspendisse.
-
-Massa massa ultricies mi quis hendrerit dolor magna eget. Eget est lorem ipsum dolor sit amet. Sit amet volutpat consequat mauris nunc. Faucibus pulvinar elementum integer enim neque volutpat ac tincidunt vitae. Sed risus ultricies tristique nulla aliquet enim tortor. Sapien nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur. Id aliquet risus feugiat in. Massa sapien faucibus et molestie ac feugiat sed. Pretium aenean pharetra magna ac placerat vestibulum lectus. Nibh praesent tristique magna sit amet purus gravida quis blandit. Fames ac turpis egestas sed tempus urna. Tortor consequat id porta nibh venenatis cras sed felis. Aenean et tortor at risus viverra adipiscing at in. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Porttitor massa id neque aliquam vestibulum morbi blandit cursus risus. Ac turpis egestas maecenas pharetra convallis. Mi quis hendrerit dolor magna eget est lorem ipsum dolor. Amet venenatis urna cursus eget nunc. Elit ut aliquam purus sit amet luctus venenatis. Amet dictum sit amet justo donec enim diam vulputate ut.
-
-Gravida neque convallis a cras. Nisi porta lorem mollis aliquam ut. Tincidunt tortor aliquam nulla facilisi cras fermentum odio. Euismod elementum nisi quis eleifend. Vel fringilla est ullamcorper eget nulla facilisi etiam. Urna neque viverra justo nec ultrices dui. Morbi blandit cursus risus at ultrices mi tempus. Turpis nunc eget lorem dolor sed viverra ipsum nunc. Sed risus ultricies tristique nulla aliquet enim tortor at auctor. Sit amet porttitor eget dolor morbi non arcu risus quis. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a.
-
-Vel pharetra vel turpis nunc eget lorem. Nunc sed blandit libero volutpat sed cras ornare. Cursus risus at ultrices mi tempus imperdiet nulla malesuada pellentesque. Aliquam id diam maecenas ultricies mi eget mauris pharetra et. Euismod nisi porta lorem mollis aliquam ut. Magna ac placerat vestibulum lectus. Semper risus in hendrerit gravida rutrum quisque non. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Neque vitae tempus quam pellentesque nec. Sollicitudin nibh sit amet commodo nulla facilisi nullam. Amet nisl suscipit adipiscing bibendum est ultricies integer quis auctor. At auctor urna nunc id cursus metus aliquam eleifend mi. Amet consectetur adipiscing elit pellentesque. Eget egestas purus viverra accumsan. Quis auctor elit sed vulputate mi sit amet. Placerat duis ultricies lacus sed.
+<div class="row">
+    <div class="col-md-12">
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+    はじめての方はこちらをご確認ください。
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-12">
+    <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
+        開催予定
+    </h4>
+    </div>
+    <div class="col-md-12" style="margin-bottom:10px;">
+    ※参加お申し込みにはイベント管理サービス「connpass」のアカウント登録が必要です。<br/>
+    各回の詳細な情報については、お申し込みページにてご確認ください。<br/>
+    </div>  
+    <div class="col-md-6" style="margin-bottom: 10px;">
+        <div class="card" id="first-card" style="display:none;">
+            <div class="card-body">
+            <h5 class="card-title" style="text-align:center; background-color:#FFAAAA; border-radius: 5px; padding:10px 0px 0px 10px;"><label id="to_eventTitle"></label></h5>
+            <!-- イベント開催日 -->
+            <table class="table">
+                <tbody>
+                <tr>
+                    <th scope="row">日程</th>
+                    <td><label id="to_eventYear"></label><label id="to_eventDate"></label></td>
+                </tr>
+                <tr>
+                    <th scope="row">時間</th>
+                    <td><label id="to_eventStime"></label>〜<label id="to_eventEtime"></label></td>
+                </tr>
+                <tr>
+                    <th scope="row">会場</th>
+                    <td><label id="to_eventPlace"></label></td>
+                </tr>
+                <tr>
+                    <th scope="row">申込状況</th>
+                    <td>
+                    <label id="to_eventAccepted"></label>／<span id="to_eventLimit"></span>人
+                    <br/>
+                    キャンセル待ち：<label id="to_eventWaiting"></label>人
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align:center;">
+                    <!-- 申し込みボタン -->
+                    <button type="button" class="btn btn-primary"  id="to_eventLink"><label id="to_enterBtn"></label></button>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+    <div class="card" id="second-card" style="display:none;">
+        <div class="card-body">
+            <h5 class="card-title" style="text-align:center; background-color:#FFFF77; border-radius: 5px; padding:10px 0px 0px 10px;"><label id="nx_eventTitle"></label></h5>
+            <!-- イベント開催日 -->
+            <table class="table">
+                <tbody>
+                <tr>
+                    <th scope="row">日程</th>
+                    <td><label id="nx_eventYear"></label><label id="nx_eventDate"></label></td>
+                </tr>
+                <tr>
+                    <th scope="row">時間</th>
+                    <td><label id="nx_eventStime"></label>〜<label id="nx_eventEtime"></label></td>
+                </tr>
+                <tr>
+                    <th scope="row">会場</th>
+                    <td><label id="nx_eventPlace"></label></td>
+                </tr>
+                <tr>
+                    <th scope="row">申込状況</th>
+                    <td>
+                    <label id="nx_eventAccepted"></label>／<span id="nx_eventLimit"></span>人
+                    <br/>
+                    キャンセル待ち：<label id="nx_eventWaiting"></label>人
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align:center;">
+                    <!-- 申し込みボタン -->
+                    <button type="button" class="btn btn-primary"  id="nx_eventLink"><label id="nx_enterBtn"></label></button>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <iframe src="https://calendar.google.com/calendar/embed?title=CoderDojo%20%E7%AB%8B%E5%B7%9D%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;hl=ja&amp;bgcolor=%23ffffff&amp;src=coderdojo.tachikawa%40gmail.com&amp;color=%2328754E&amp;ctz=Asia%2FTokyo" style="border-width:0; margin-top:20px;" width="100%" height="240" frameborder="0" scrolling="no"></iframe>
+    </div>
+</div>
