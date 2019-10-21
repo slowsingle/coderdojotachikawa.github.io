@@ -11,5 +11,6 @@ color:
 
 # Font Families
 font:
-  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
-  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
+  primary: 'M PLUS 1p,sans-serif'
+#  primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+#  secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'

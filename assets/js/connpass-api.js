@@ -14,7 +14,7 @@ $(function() {
         var toDate = moment().format("YYYYMMDD");
 
         data.events.forEach(element => {
-            if (0 == count) {
+            if (1 == count) {
 
                 // 要素を表示
                 $('#first-card').show();
@@ -27,6 +27,7 @@ $(function() {
                 // connpass.com 上のURL
                 if (evDate<=toDate) {
                     $('#to_enterBtn').text("終了しました");
+                    $('#to_eventLink').prop("disabled", true);
                 } else {
                     var eventUrl = data.events[count].event_url;
                     $('#to_eventLink').attr('onClick', "location.href='" + eventUrl + "'");
@@ -64,7 +65,7 @@ $(function() {
                 $('#to_eventLimit').text(eventLimit);
                 $('#to_eventAccepted').text(eventAccepted);
                 $('#to_eventWaiting').text(eventWaiting);
-            } else if (1 == count) {
+            } else if (0 == count) {
                 // 要素の表示
                 $('#second-card').show();
 

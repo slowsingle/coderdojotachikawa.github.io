@@ -100,4 +100,7 @@ layout: default
     <div class="col-md-12">
         <iframe src="https://calendar.google.com/calendar/embed?title=CoderDojo%20%E7%AB%8B%E5%B7%9D%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;hl=ja&amp;bgcolor=%23ffffff&amp;src=coderdojo.tachikawa%40gmail.com&amp;color=%2328754E&amp;ctz=Asia%2FTokyo" style="border-width:0; margin-top:20px;" width="100%" height="240" frameborder="0" scrolling="no"></iframe>
     </div>
+    <div class="col-12">
+        <iframe style="width:100%; height:480px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSzpg-iCUegEjDX_ziOQllZlR92eeMPH99rxkDUIR9yAbXZIDUJiF90Wce7CeqQPTqrRriNzVq8kxN-/pubhtml?widget=true&amp;headers=false"></iframe>
+    </div>
 </div>
