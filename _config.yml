@@ -26,12 +26,16 @@ menu:
     link: /skills-and-offers
     icon: ""
 
-  - text: ブログ・開催の様子
+  - text: ブログ（開催の様子）
     link: https://coderdojotachikawa.tamaliver.jp/
     icon: ""
 
   - text: スタッフメンバー募集
     link: https://activo.jp/articles/72556
+    icon: ""
+
+  - text: ご支援、ご協力のお願い（会計報告）
+    link: /contact
     icon: ""
 
   - text: お問い合わせ
