@@ -8,7 +8,7 @@ layout: default
 </div>
 <div class="row">
     <div class="col-md-12">
-    はじめての方はこちらをご確認ください。
+    はじめての方はこちらをご確認ください。（準備中）
     </div>
 </div>
 <div class="row">
@@ -21,7 +21,7 @@ layout: default
     ※参加お申し込みにはイベント管理サービス「connpass」のアカウント登録が必要です。<br/>
     各回の詳細な情報については、お申し込みページにてご確認ください。<br/>
     </div>  
-    <div class="col-md-6" style="margin-bottom: 10px;">
+    <div class="col-md-6" style="margin-bottom: 10px;" id="to-table">
         <div class="card" id="first-card" style="display:none;">
             <div class="card-body">
             <h5 class="card-title" style="text-align:center; background-color:#FFAAAA; border-radius: 5px; padding:10px 0px 0px 10px;"><label id="to_eventTitle"></label></h5>
@@ -59,41 +59,41 @@ layout: default
             </div>
         </div>
     </div>
-    <div class="col-md-6">
-    <div class="card" id="second-card" style="display:none;">
-        <div class="card-body">
-            <h5 class="card-title" style="text-align:center; background-color:#FFFF77; border-radius: 5px; padding:10px 0px 0px 10px;"><label id="nx_eventTitle"></label></h5>
-            <!-- イベント開催日 -->
-            <table class="table">
-                <tbody>
-                <tr>
-                    <th scope="row">日程</th>
-                    <td><label id="nx_eventYear"></label><label id="nx_eventDate"></label></td>
-                </tr>
-                <tr>
-                    <th scope="row">時間</th>
-                    <td><label id="nx_eventStime"></label>〜<label id="nx_eventEtime"></label></td>
-                </tr>
-                <tr>
-                    <th scope="row">会場</th>
-                    <td><label id="nx_eventPlace"></label></td>
-                </tr>
-                <tr>
-                    <th scope="row">申込状況</th>
-                    <td>
-                    <label id="nx_eventAccepted"></label>／<span id="nx_eventLimit"></span>人
-                    <br/>
-                    キャンセル待ち：<label id="nx_eventWaiting"></label>人
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2" style="text-align:center;">
-                    <!-- 申し込みボタン -->
-                    <button type="button" class="btn btn-primary"  id="nx_eventLink"><label id="nx_enterBtn"></label></button>
-                    </td>
-                </tr>
-                </tbody>
-            </table>
+    <div class="col-md-6" id="nx-table">
+        <div class="card" id="second-card" style="display:none;">
+            <div class="card-body">
+                <h5 class="card-title" style="text-align:center; background-color:#FFFF77; border-radius: 5px; padding:10px 0px 0px 10px;"><label id="nx_eventTitle"></label></h5>
+                <!-- イベント開催日 -->
+                <table class="table">
+                    <tbody>
+                    <tr>
+                        <th scope="row">日程</th>
+                        <td><label id="nx_eventYear"></label><label id="nx_eventDate"></label></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">時間</th>
+                        <td><label id="nx_eventStime"></label>〜<label id="nx_eventEtime"></label></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">会場</th>
+                        <td><label id="nx_eventPlace"></label></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">申込状況</th>
+                        <td>
+                        <label id="nx_eventAccepted"></label>／<span id="nx_eventLimit"></span>人
+                        <br/>
+                        キャンセル待ち：<label id="nx_eventWaiting"></label>人
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="text-align:center;">
+                        <!-- 申し込みボタン -->
+                        <button type="button" class="btn btn-primary"  id="nx_eventLink"><label id="nx_enterBtn"></label></button>
+                        </td>
+                    </tr>
+                    </tbody>
+                </table>
             </div>
         </div>
     </div>

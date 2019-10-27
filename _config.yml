@@ -26,23 +26,24 @@ menu:
     link: /skills-and-offers
     icon: ""
 
-  - text: コミュニティ
-    link: /contact
+  - text: ブログ・開催の様子
+    link: https://coderdojotachikawa.tamaliver.jp/
     icon: ""
 
-  - text: メンバー募集
-    link: /resume
+  - text: スタッフメンバー募集
+    link: https://activo.jp/articles/72556
     icon: ""
+
+  - text: お問い合わせ
+    link: https://coderdojotachikawa.tamaliver.jp/blogmessage
+    icon: ""
+
 
 # Socialmedia Icons
 social_icons:
-  - name: blog
-    link: https://coderdojotachikawa.tamaliver.jp/
-    icon: fab fa-world
-
-  - name: facebook
-    link: https://www.facebook.com/CoderDojoTachikawa
-    icon: fab fa-facebook-square
+#  - name: facebook
+#    link: https://www.facebook.com/CoderDojoTachikawa
+#    icon: fab fa-facebook-square
 
   - name: twitter
     link: https://twitter.com/CoderDojoTckw

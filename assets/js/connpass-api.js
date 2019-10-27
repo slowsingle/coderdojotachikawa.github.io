@@ -28,6 +28,7 @@ $(function() {
                 if (evDate<=toDate) {
                     $('#to_enterBtn').text("終了しました");
                     $('#to_eventLink').prop("disabled", true);
+                    $('#to-table').remove();
                 } else {
                     var eventUrl = data.events[count].event_url;
                     $('#to_eventLink').attr('onClick', "location.href='" + eventUrl + "'");
