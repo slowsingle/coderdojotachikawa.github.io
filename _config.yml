@@ -30,7 +30,11 @@ menu:
     link: https://coderdojotachikawa.tamaliver.jp/
     icon: ""
 
-  - text: スタッフメンバー募集
+  - text: メンバー紹介
+    link: /menber
+    icon: ""
+
+  - text: スタッフメンバー募集（ボランティア）
     link: https://activo.jp/articles/72556
     icon: ""
 
