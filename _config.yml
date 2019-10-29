@@ -22,10 +22,6 @@ menu:
     link: /first
     icon: ""
 
-  - text: CoderDojo について
-    link: /skills-and-offers
-    icon: ""
-
   - text: ブログ（開催の様子）
     link: https://coderdojotachikawa.tamaliver.jp/
     icon: ""
