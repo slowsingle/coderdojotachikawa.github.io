@@ -58,6 +58,7 @@
       <span class="badge badge-info">2017年12月から参加</span>
       <span class="badge badge-warning">インフラ</span>
       <span class="badge badge-warning">python</span>
+      <span class="badge badge-success">正規表現好き</span>
       <span class="badge badge-success">ランニング好き</span>
       <span class="badge badge-success">自転車好き</span>
       <p class="card-text mt-2">
