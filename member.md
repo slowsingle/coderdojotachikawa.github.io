@@ -102,6 +102,8 @@
       <span class="badge badge-info">2019年7月から参加</span>
       <span class="badge badge-warning">Scratch</span>
       <span class="badge badge-success">ハンドメイド好き</span>
+      <span class="badge badge-success">街歩き好き</span>
+      <span class="badge badge-success">旅行好き</span>
       <p class="card-text mt-2">
       </p>
     </div>
