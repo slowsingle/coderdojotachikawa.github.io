@@ -22,12 +22,12 @@ menu:
     link: /first
     icon: ""
 
-  - text: ブログ（開催の様子）
-    link: https://coderdojotachikawa.tamaliver.jp/
+  - text: スタッフメンバー紹介
+    link: /member
     icon: ""
 
-  - text: メンバー紹介
-    link: /member
+  - text: ブログ（開催の様子）
+    link: https://coderdojotachikawa.tamaliver.jp/
     icon: ""
 
   - text: スタッフメンバー募集（ボランティア）
