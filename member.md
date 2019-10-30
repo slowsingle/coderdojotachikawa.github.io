@@ -75,7 +75,8 @@
       <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2018年5月から参加</span>
       <span class="badge badge-warning">Scratch</span>
-      <span class="badge badge-warning">ruby</span>
+      <span class="badge badge-warning">Ruby</span>
+      <span class="badge badge-warning">python</span>
       <p class="card-text mt-2">
       </p>
     </div>
