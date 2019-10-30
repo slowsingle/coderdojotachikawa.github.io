@@ -20,6 +20,12 @@
       <tr>
         <td>女性</td><td>2人</td>
       </tr>
+      <tr>
+        <td>エンジニア職</td><td>4人</td>
+      </tr>
+      <tr>
+        <td>事務職</td><td>3人</td>
+      </tr>
     </table>
   </div>
 </div>
@@ -32,6 +38,7 @@
       <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2017年12月から参加</span>
       <span class="badge badge-info">立川在住</span>
+      <span class="badge badge-info">エンジニア職</span>
       <span class="badge badge-warning">Scratch</span>
       <span class="badge badge-warning">micro:bit</span>
       <span class="badge badge-warning">Java</span>
@@ -45,7 +52,7 @@
       <span class="badge badge-success">グラフィックデザイン好き</span>
       <p class="card-text mt-2">
         普段はJavaを使った業務用のWEBアプリケーションの開発や保守をする仕事をしています。<br/>
-        プログラミング教育活動に出会い、今は教育に関心があります。私はプログラミングを苦労して習得したのでこれから学ぶ子どもたちには楽しく学べる場を提供したいと思い活動をしています。<br/>
+        プログラミング教育活動に出会い、今は教育に関心があります。私はプログラミングを苦労して、習得したのでこれから学ぶ子どもたちには楽しく学べる場を提供したいと思い活動をしています。<br/>
       </p>
     </div>
   </div>
@@ -57,6 +64,7 @@
       <span class="badge badge-primary">たまみらメンター</span>
       <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2017年12月から参加</span>
+      <span class="badge badge-info">エンジニア職</span>
       <span class="badge badge-warning">インフラ</span>
       <span class="badge badge-warning">python</span>
       <span class="badge badge-success">正規表現好き</span>
@@ -74,6 +82,7 @@
       <span class="badge badge-primary">昭島チャンピオン（代表）</span>
       <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2018年5月から参加</span>
+      <span class="badge badge-info">エンジニア職</span>
       <span class="badge badge-warning">Scratch</span>
       <span class="badge badge-warning">Ruby</span>
       <span class="badge badge-warning">python</span>
@@ -83,17 +92,23 @@
   </div>
   <div class="card col-md-12 mt-2">
     <div class="card-body">
-      <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">つじもと</h5>
+      <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">もっさん</h5>
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-primary">たまみらメンター</span>
+      <span class="badge badge-primary">昭島メンター</span>
       <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2019年4月から参加</span>
+      <span class="badge badge-info">エンジニア職</span>
       <span class="badge badge-warning">Scratch</span>
       <span class="badge badge-warning">micro:bit</span>
       <span class="badge badge-warning">python</span>
       <span class="badge badge-success">AI好き</span>
       <span class="badge badge-success">電子工作好き</span>
+      <span class="badge badge-success">ドラクエ好き</span>
       <p class="card-text mt-2">
+        新しいテクノロジーに触れたり、モノづくりするときのワクワク感が大好き。<br/>
+        その楽しさを伝えて、ITやモノづくりに興味を持つ子を増やしたり、学びたい子のサポートをしていきます。<br/>
+        普段は大人が仕事で使うシステムを開発したり、仕事をしやすくするアイデアを出したりしていますよ。<br/>
       </p>
     </div>
   </div>
@@ -103,6 +118,7 @@
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-danger">女性</span>
       <span class="badge badge-info">2019年7月から参加</span>
+      <span class="badge badge-info">事務職</span>
       <span class="badge badge-warning">Scratch</span>
       <span class="badge badge-success">ハンドメイド好き</span>
       <span class="badge badge-success">街歩き好き</span>
@@ -117,6 +133,7 @@
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2019年10月から参加</span>
+      <span class="badge badge-info">事務職</span>
       <span class="badge badge-warning">Scratch</span>
       <span class="badge badge-warning">javascript</span>
       <p class="card-text mt-2">
@@ -129,6 +146,7 @@
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-danger">女性</span>
       <span class="badge badge-info">2019年11月から参加</span>
+      <span class="badge badge-info">事務職</span>
       <span class="badge badge-warning">Scratch</span>
       <span class="badge badge-warning">HTML</span>
       <span class="badge badge-warning">CSS</span>
