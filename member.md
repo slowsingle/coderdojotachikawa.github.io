@@ -38,6 +38,7 @@
       <span class="badge badge-warning">javascript</span>
       <span class="badge badge-warning">HTML</span>
       <span class="badge badge-warning">CSS</span>
+      <span class="badge badge-warning">VBA</span>
       <span class="badge badge-success">ゲーム好き</span>
       <span class="badge badge-success">ハンドメイド好き</span>
       <span class="badge badge-success">電子工作好き</span>
