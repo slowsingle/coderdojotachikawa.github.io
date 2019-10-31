@@ -91,9 +91,13 @@
       <span class="badge badge-info">2018年5月から参加</span>
       <span class="badge badge-info">エンジニア職</span>
       <span class="badge badge-warning">Scratch</span>
-      <span class="badge badge-warning">Ruby</span>
-      <span class="badge badge-warning">python</span>
+      <span class="badge badge-warning">C++/C#/Ruby</span>
+      <span class="badge badge-warning">競技プログラミング</span>
+      <span class="badge badge-warning">野球/バレーボール好き</span>
       <p class="card-text mt-2">
+        仕事でほぼ毎日プログラミングしていますが、家でも趣味で競技プログラミングをしているほどプログラミングが好きです。<br/>
+        質問されるのも大好きなので、どんどん質問してきてください。プログラミング以外でもOKです。保護者の方もお気軽に声をかけてください。<br/>
+        昭島道場とたまみら道場へのご参加もお待ちしています。
       </p>
     </div>
   </div>
