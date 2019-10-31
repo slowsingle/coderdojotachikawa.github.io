@@ -24,7 +24,8 @@
       <li class="list-group-item" style="background-color:#55aadd; color:#FFFFFF;">Q. プログラミングを教えてもらえるのですか？</li>
       <li class="list-group-item">
         A. いいえ、プログラミングを子どもたちに教える活動ではありません。私たちは教師でもなくカリキュラムや課題なども用意していません。<br/>
-        塾や教室ではないのでご注意ください。
+        プログラミングや作品作りについて相談に乗ることはできますが、塾や教室ではないのでご注意ください。<br/>
+        ここはプログラミングに興味、関心のある人達が集まり楽しむ場所です。
       </li>
       <li class="list-group-item" style="background-color:#55aadd; color:#FFFFFF;">Q. プログラミングをやったことがないのですが参加できますか？</li>
       <li class="list-group-item">
