@@ -13,9 +13,15 @@ layout: default
 </div>
 <div class="row">
     <div class="col-md-12">
-    <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
-        開催予定
-    </h4>
+        <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
+            開催予定
+        </h4>
+        <p>
+            参加お申し込みにはイベント管理サービス「connpass」のアカウント登録が必要です。<br/>
+            <a href="https://connpass.com/"><img src="/assets/images/connpass_logo_1.png" style="max-width: 180px;"></a><br/>
+            各回の詳細な情報については、お申し込みページにてご確認ください。<br/>
+            また、connpass内の<a href="https://coderdojo-tachikawa.connpass.com/">CoderDojo 立川グループ</a>のメンバーになっていただくことで、イベントの募集案内やお知らせをメールで受け取ることができます。
+        </p>
     </div>
     <div class="col-md-6" style="margin-bottom: 10px;">
         <div class="card">
@@ -30,14 +36,6 @@ layout: default
                 <tr>
                     <th scope="row">持ち物</th>
                     <td>ノートパソコン、またはiPadなど<br/>各自やりたいことを持参する</td>
-                </tr>
-                <tr>
-                  <td colspan="2">
-                    参加お申し込みにはイベント管理サービス「connpass」のアカウント登録が必要です。<br/>
-                    <a href="https://connpass.com/"><img src="/assets/images/connpass_logo_1.png" style="max-width: 180px;"></a><br/>
-                    各回の詳細な情報については、お申し込みページにてご確認ください。<br/>
-                    また、connpass内の<a href="https://coderdojo-tachikawa.connpass.com/">CoderDojo 立川グループ</a>のメンバーになっていただくことで、イベントの募集案内やお知らせをメールで受け取ることができます。
-                  </td>
                 </tr>
               </tbody>
             </table>
