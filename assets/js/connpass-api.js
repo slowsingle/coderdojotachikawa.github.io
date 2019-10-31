@@ -122,8 +122,8 @@ $(function() {
         if (0<count) {
             $('#infomation').hide();
         }else{
-            $('#first-card').remove();
-            $('#second-card').remove();
+            $('#to-table').remove();
+            $('#nx-table').remove();
         }
     }).fail(function(jqXHR, textStatus, errorThrown) {
         $('#eventLink').attr('onClick', "location.href='https://coderdojo-tachikawa.connpass.com/'");
