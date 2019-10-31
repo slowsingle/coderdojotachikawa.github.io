@@ -64,7 +64,7 @@
   </div>
   <div class="card col-md-12 mt-2">
     <div class="card-body">
-      <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">こたに</h5>
+      <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">こたやん</h5>
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-primary">小平メンター</span>
       <span class="badge badge-primary">たまみらメンター</span>
@@ -77,6 +77,7 @@
       <span class="badge badge-success">ランニング好き</span>
       <span class="badge badge-success">自転車好き</span>
       <p class="card-text mt-2">
+        携帯電話のネットワークを作ってました。電波系ではないです(どっちの意味でも)。プログラミングは得意じゃないのですが、ネットワークの話は得意です。どうやってインターネットにつながっているのかなどに興味があれば話しかけてください。
       </p>
     </div>
   </div>

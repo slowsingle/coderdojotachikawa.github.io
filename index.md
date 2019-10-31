@@ -17,13 +17,10 @@ layout: default
         開催予定
     </h4>
     </div>
-    <div class="col-md-12" style="margin-bottom:10px;">
-      ※参加お申し込みにはイベント管理サービス「connpass」のアカウント登録が必要です。<br/>
-      各回の詳細な情報については、お申し込みページにてご確認ください。<br/>
-    </div>
     <div class="col-md-6" style="margin-bottom: 10px;">
         <div class="card">
-          <div class="card-body">
+          <div class="card-body" align="center">
+            <a href="https://coderdojo-tachikawa.connpass.com/"><img src="/assets/images/event_theme.png" style="max-width: 360px;"></a>
             <table class="table">
               <tbody>
                 <tr style="width: 150px;">
@@ -34,11 +31,11 @@ layout: default
                     <th scope="row">持ち物</th>
                     <td>ノートパソコン、またはiPadなど<br/>各自やりたいことを持参する</td>
                 </tr>
-                <tr id="infomation">
-                  <th scope="row">開催情報</th>
-                  <td>
-                    開催の最新情報はこちらを参照してください。<br/>
-                    <a href="https://coderdojo-tachikawa.connpass.com/">https://coderdojo-tachikawa.connpass.com/</a>
+                <tr>
+                  <td colspan="2">
+                    参加お申し込みにはイベント管理サービス「connpass」のアカウント登録が必要です。<br/>
+                    各回の詳細な情報については、お申し込みページにてご確認ください。<br/>
+                    <a href="https://connpass.com/"><img src="/assets/images/connpass_logo_1.png" style="max-width: 180px;"></a>
                   </td>
                 </tr>
               </tbody>
