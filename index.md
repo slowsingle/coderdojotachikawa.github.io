@@ -18,9 +18,29 @@ layout: default
     </h4>
     </div>
     <div class="col-md-12" style="margin-bottom:10px;">
-    ※参加お申し込みにはイベント管理サービス「connpass」のアカウント登録が必要です。<br/>
-    各回の詳細な情報については、お申し込みページにてご確認ください。<br/>
-    </div>  
+      ※参加お申し込みにはイベント管理サービス「connpass」のアカウント登録が必要です。<br/>
+      各回の詳細な情報については、お申し込みページにてご確認ください。<br/>
+    </div>
+    <div class="col-md-6" style="margin-bottom: 10px;" id="to-table">
+        <div class="card" style="display:none;">
+            <div class="card-body">
+            <h5 class="card-title" style="text-align:center; background-color:#FFAAAA; border-radius: 5px; padding:10px 0px 0px 10px;"><label id="to_eventTitle"></label></h5>
+            <!-- イベント開催日 -->
+            <table class="table">
+              <tbody>
+                <tr>
+                    <th scope="row">参加費</th>
+                    <td>無料<br/>（会場で寄付金を募っています）</td>
+                </tr>
+                <tr>
+                    <th scope="row">持ち物</th>
+                    <td>ノートパソコン、またはiPadなど<br/>各自やりたいことを持参する</td>
+                </tr>
+              </tbody>
+            </table>
+            </div>
+        </div>
+    </div>
     <div class="col-md-6" style="margin-bottom: 10px;" id="to-table">
         <div class="card" id="first-card" style="display:none;">
             <div class="card-body">
