@@ -26,7 +26,7 @@ layout: default
     <div class="col-md-6" style="margin-bottom: 10px;">
         <div class="card">
           <div class="card-body">
-                <a href="https://coderdojo-tachikawa.connpass.com/"><img src="/assets/images/event_theme.png" class="img-fluid"></a>
+                <a href="https://coderdojo-tachikawa.connpass.com/"><img src="/assets/images/event_theme.png" class="img-fluid mb-4"></a>
             <table class="table">
               <tbody>
                 <tr>
