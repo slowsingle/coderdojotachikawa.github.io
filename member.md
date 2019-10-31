@@ -10,24 +10,24 @@
       メンバーはボランティアで協力頂いている方々です。それぞれの都合で参加いただいているので必ず毎回参加するとは限りません。<br/>
       ここに掲載していない他のCoderDojoの方や外部の方も参加される場合もあります。<br/>
     </p>
-    <table style="border: 1px solid #000000;">
+    <table border="1">
       <tr>
-        <td rowspan="6">メンバー数</td><td rowspan="6" align="right" style="width: 30px;">7人</td><td colspan="2" align="center">男女別</td>
+        <td rowspan="6">メンバー数</td><td rowspan="6" align="right" style="width: 100px;">7人</td><td colspan="2" align="center">男女別</td>
       </tr>
       <tr>
-        <td>男性</td><td align="right" style="width: 30px;">5人</td>
+        <td>男性</td><td align="right" style="width: 100px;">5人</td>
       </tr>
       <tr>
-        <td>女性</td><td align="right" style="width: 30px;">2人</td>
+        <td>女性</td><td align="right" style="width: 100px;">2人</td>
       </tr>
       <tr>
         <td colspan="2" align="center">職種別</td>
       </tr>
       <tr>
-        <td>エンジニア職</td><td align="right" style="width: 30px;">4人</td>
+        <td>エンジニア職</td><td align="right" style="width: 100px;">4人</td>
       </tr>
       <tr>
-        <td>事務職</td><td align="right" style="width: 30px;">3人</td>
+        <td>事務職</td><td align="right" style="width: 100px;">3人</td>
       </tr>
     </table>
   </div>
