@@ -77,7 +77,7 @@
       <span class="badge badge-success">ランニング好き</span>
       <span class="badge badge-success">自転車好き</span>
       <p class="card-text mt-2">
-        携帯電話のネットワークを作ってました。電波系ではないです(どっちの意味でも)。プログラミングは得意じゃないのですが、ネットワークの話は得意です。どうやってインターネットにつながっているのかなどに興味があれば話しかけてください。
+        携帯電話のネットワークを作ってました。電波系ではないです(どっちの意味でも)。プログラミングは得意じゃないのですが、ネットワークの話は得意です。どうやってインターネットにつながっているのかなどに興味があれば話しかけてください。<br/>
       </p>
     </div>
   </div>
@@ -91,13 +91,16 @@
       <span class="badge badge-info">2018年5月から参加</span>
       <span class="badge badge-info">エンジニア職</span>
       <span class="badge badge-warning">Scratch</span>
-      <span class="badge badge-warning">C++/C#/Ruby</span>
-      <span class="badge badge-warning">競技プログラミング</span>
-      <span class="badge badge-warning">野球/バレーボール好き</span>
+      <span class="badge badge-warning">C++</span>
+      <span class="badge badge-warning">C#</span>
+      <span class="badge badge-warning">Ruby</span>
+      <span class="badge badge-success">競技プログラミング好き</span>
+      <span class="badge badge-success">野球好き</span>
+      <span class="badge badge-success">バレーボール好き</span>
       <p class="card-text mt-2">
         仕事でほぼ毎日プログラミングしていますが、家でも趣味で競技プログラミングをしているほどプログラミングが好きです。<br/>
         質問されるのも大好きなので、どんどん質問してきてください。プログラミング以外でもOKです。保護者の方もお気軽に声をかけてください。<br/>
-        昭島道場とたまみら道場へのご参加もお待ちしています。
+        昭島道場とたまみら道場へのご参加もお待ちしています。<br/>
       </p>
     </div>
   </div>
