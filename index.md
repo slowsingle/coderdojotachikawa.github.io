@@ -34,6 +34,12 @@ layout: default
                     <th scope="row">持ち物</th>
                     <td>ノートパソコン、またはiPadなど<br/>各自やりたいことを持参する</td>
                 </tr>
+                <tr id="infomation" style="display:none;">
+                  <td>
+                    開催の最新情報はこちらを参照してください。<br/>
+                    <a href="https://coderdojo-tachikawa.connpass.com/">https://coderdojo-tachikawa.connpass.com/</a>
+                  </td>
+                </tr>
               </tbody>
             </table>
           </div>
@@ -114,10 +120,6 @@ layout: default
                 </table>
             </div>
         </div>
-    </div>
-    <div class="col-md-12" id="infomation" style="display:none;">
-      開催の最新情報はこちらを参照してください。<br/>
-      <a href="https://coderdojo-tachikawa.connpass.com/">https://coderdojo-tachikawa.connpass.com/</a>
     </div>
     <div class="col-md-12">
         <iframe src="https://calendar.google.com/calendar/embed?title=CoderDojo%20%E7%AB%8B%E5%B7%9D%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;hl=ja&amp;bgcolor=%23ffffff&amp;src=coderdojo.tachikawa%40gmail.com&amp;color=%2328754E&amp;ctz=Asia%2FTokyo" style="border-width:0; margin-top:20px;" width="100%" height="240" frameborder="0" scrolling="no"></iframe>
