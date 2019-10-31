@@ -34,7 +34,7 @@ layout: default
                     <th scope="row">持ち物</th>
                     <td>ノートパソコン、またはiPadなど<br/>各自やりたいことを持参する</td>
                 </tr>
-                <tr id="infomation" style="display:none;">
+                <tr id="infomation">
                   <td>
                     開催の最新情報はこちらを参照してください。<br/>
                     <a href="https://coderdojo-tachikawa.connpass.com/">https://coderdojo-tachikawa.connpass.com/</a>
