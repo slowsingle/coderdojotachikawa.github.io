@@ -30,6 +30,7 @@
         <td>事務職</td><td align="right" style="width: 50px;">3人</td>
       </tr>
     </table>
+    ※エンジニア職：IT関係で仕事をしている人
   </div>
 </div>
 <div class="row">
