@@ -19,13 +19,15 @@ layout: default
     </div>
     <div class="col-md-6" style="margin-bottom: 10px;">
         <div class="card">
-          <div class="card-body" align="center">
-            <a href="https://coderdojo-tachikawa.connpass.com/"><img src="/assets/images/event_theme.png" style="max-width: 360px;"></a>
+          <div class="card-body">
             <table class="table">
               <tbody>
-                <tr style="width: 150px;">
-                    <th scope="row">参加費</th>
-                    <td>無料<br/>（会場で寄付金を募っています）</td>
+                <tr>
+                    <td colspan="2"><a href="https://coderdojo-tachikawa.connpass.com/"><img src="/assets/images/event_theme.png"></a></td>
+                </tr>
+                <tr>
+                    <th scope="row" style="width: 80px;">参加費</th>
+                    <td>無料<br/>※会場で寄付金を募っています。</td>
                 </tr>
                 <tr>
                     <th scope="row">持ち物</th>
@@ -34,8 +36,9 @@ layout: default
                 <tr>
                   <td colspan="2">
                     参加お申し込みにはイベント管理サービス「connpass」のアカウント登録が必要です。<br/>
+                    <a href="https://connpass.com/"><img src="/assets/images/connpass_logo_1.png" style="max-width: 180px;"></a><br/>
                     各回の詳細な情報については、お申し込みページにてご確認ください。<br/>
-                    <a href="https://connpass.com/"><img src="/assets/images/connpass_logo_1.png" style="max-width: 180px;"></a>
+                    また、connpass内の<a href="https://coderdojo-tachikawa.connpass.com/">CoderDojo 立川グループ</a>のメンバーになっていただくことで、イベントの募集案内やお知らせをメールで受け取ることができます。
                   </td>
                 </tr>
               </tbody>
