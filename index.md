@@ -20,11 +20,9 @@ layout: default
     <div class="col-md-6" style="margin-bottom: 10px;">
         <div class="card">
           <div class="card-body">
+                <a href="https://coderdojo-tachikawa.connpass.com/"><img src="/assets/images/event_theme.png" class="img-fluid"></a>
             <table class="table">
               <tbody>
-                <tr>
-                    <td colspan="2"><a href="https://coderdojo-tachikawa.connpass.com/"><img src="/assets/images/event_theme.png"></a></td>
-                </tr>
                 <tr>
                     <th scope="row" style="width: 80px;">参加費</th>
                     <td>無料<br/>※会場で寄付金を募っています。</td>

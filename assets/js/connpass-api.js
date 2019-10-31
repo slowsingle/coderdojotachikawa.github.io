@@ -81,7 +81,7 @@ $(function() {
                 } else {
                     var eventUrl = data.events[count].event_url;
                     $('#nx_eventLink').attr('onClick', "location.href='" + eventUrl + "'");
-                    $('#nx_enterBtn').text("参加お申込みはこちらから");
+                    $('#nx_enterBtn').text("参加お申込みはこちら");
                 }
             
                 // タイトル
