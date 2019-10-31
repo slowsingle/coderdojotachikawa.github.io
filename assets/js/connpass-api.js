@@ -120,6 +120,7 @@ $(function() {
             count = 1 + count;
         });
     }).fail(function(jqXHR, textStatus, errorThrown) {
+        $('#infomation').show();
         $('#eventLink').attr('onClick', "location.href='https://coderdojo-tachikawa.connpass.com/'");
     });
 });
