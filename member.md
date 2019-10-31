@@ -12,22 +12,22 @@
     </p>
     <table border="1" style="border-collapse: collapse">
       <tr>
-        <td rowspan="6">メンバー数</td><td rowspan="6" align="right" style="width: 100px;">7人</td><td colspan="2" align="center">男女別</td>
+        <td rowspan="6">メンバー数</td><td rowspan="6" align="right" style="width: 50px;">7人</td><td colspan="2" align="center">男女別</td>
       </tr>
       <tr>
-        <td>男性</td><td align="right" style="width: 100px;">5人</td>
+        <td>男性</td><td align="right" style="width: 50px;">5人</td>
       </tr>
       <tr>
-        <td>女性</td><td align="right" style="width: 100px;">2人</td>
+        <td>女性</td><td align="right" style="width: 50px;">2人</td>
       </tr>
       <tr>
         <td colspan="2" align="center">職種別</td>
       </tr>
       <tr>
-        <td>エンジニア職</td><td align="right" style="width: 100px;">4人</td>
+        <td>エンジニア職</td><td align="right" style="width: 50px;">4人</td>
       </tr>
       <tr>
-        <td>事務職</td><td align="right" style="width: 100px;">3人</td>
+        <td>事務職</td><td align="right" style="width: 50px;">3人</td>
       </tr>
     </table>
   </div>
