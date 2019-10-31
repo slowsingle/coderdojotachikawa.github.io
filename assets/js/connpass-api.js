@@ -10,6 +10,7 @@ $(function() {
         },
         cache: false
     }).done(function(data, textStatus, jqXHR) {
+        $('#infomation').hide();
         var count = 0;
         var toDate = moment().format("YYYYMMDD");
 
@@ -120,7 +121,6 @@ $(function() {
             count = 1 + count;
         });
     }).fail(function(jqXHR, textStatus, errorThrown) {
-        $('#infomation').show();
         $('#eventLink').attr('onClick', "location.href='https://coderdojo-tachikawa.connpass.com/'");
     });
 });
