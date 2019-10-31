@@ -121,6 +121,7 @@ $(function() {
         });
         if (0<count) {
             $('#infomation').hide();
+        }else{
             $('#first-card').remove();
             $('#second-card').remove();
         }
