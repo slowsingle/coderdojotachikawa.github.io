@@ -37,7 +37,7 @@
   <div class="card col-md-12 mt-2">
     <div class="card-body">
       <h5 class="card-title"><img src="/assets/images/profile/pf-ino.jpg" class="card-img-top mr-3" alt="いのっち" style="width: 80px;border-radius: 50%;">いのっち（猪股）</h5>
-      <span class="badge badge-primary">立川チャンピオン（代表）</span>
+      <span class="badge badge-primary">立川チャンピオン（主宰）</span>
       <span class="badge badge-primary">調布メンター</span>
       <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2017年12月から参加</span>
@@ -88,8 +88,8 @@
     <div class="card-body">
       <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">なかうえ</h5>
       <span class="badge badge-primary">立川メンター</span>
-      <span class="badge badge-primary">たまみらチャンピオン（代表）</span>
-      <span class="badge badge-primary">昭島チャンピオン（代表）</span>
+      <span class="badge badge-primary">たまみらチャンピオン（主宰）</span>
+      <span class="badge badge-primary">昭島チャンピオン（主宰）</span>
       <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2018年5月から参加</span>
       <span class="badge badge-info">エンジニア職</span>
