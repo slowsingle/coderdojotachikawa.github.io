@@ -54,6 +54,7 @@
       <span class="badge badge-success">ハンドメイド好き</span>
       <span class="badge badge-success">電子工作好き</span>
       <span class="badge badge-success">グラフィックデザイン好き</span>
+      <span class="badge badge-success">写真好き</span>
       <span class="badge badge-success">星の王子様好き</span>
       <p class="card-text mt-2">
         普段はJavaを使った業務用のWEBアプリケーションの開発や保守をする仕事をしています。<br/>
