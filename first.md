@@ -11,6 +11,11 @@
     </h4>
     comming soon...
     <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
+        CoderDojo 立川に参加してくれたニンジャ紹介
+    </h4>
+    ※毎回参加してくれているわけではありません。<br/>
+    comming soon...
+    <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
         よくあるご質問
     </h4>
     <p>
