@@ -118,7 +118,11 @@ layout: default
             </div>
         </div>
         <div class="col-md-6">
-            <iframe src="https://calendar.google.com/calendar/embed?title=CoderDojo%20%E7%AB%8B%E5%B7%9D%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;hl=ja&amp;bgcolor=%23ffffff&amp;src=coderdojo.tachikawa%40gmail.com&amp;color=%2328754E&amp;ctz=Asia%2FTokyo" style="border-width:0;" width="100%" height="320" frameborder="0" scrolling="no"></iframe>
+            <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
+                今後の開催スケジュール
+            </h4>
+            ※各回のお申し込みは約一ヶ月前より可能となります。<br/>
+            <iframe src="https://calendar.google.com/calendar/embed?title=CoderDojo%20%E7%AB%8B%E5%B7%9D%20%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB&amp;mode=AGENDA&amp;height=600&amp;wkst=1&amp;hl=ja&amp;bgcolor=%23ffffff&amp;src=coderdojo.tachikawa%40gmail.com&amp;color=%2328754E&amp;ctz=Asia%2FTokyo" style="border-width:0;" width="100%" height="360" frameborder="0" scrolling="no"></iframe>
         </div>
     </div>
     <div class="row">
