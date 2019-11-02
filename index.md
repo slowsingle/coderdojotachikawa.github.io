@@ -5,11 +5,6 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-        はじめての方はこちらをご確認ください。（準備中）
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-12">
             <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
                 開催予定
             </h4>
