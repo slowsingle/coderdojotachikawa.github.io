@@ -25,11 +25,15 @@ layout: default
                   <tbody>
                     <tr>
                         <th scope="row" style="width: 80px;">参加費</th>
-                        <td>無料<br/>※会場で寄付金を募っています。</td>
+                        <td>無料</td>
                     </tr>
                     <tr>
                         <th scope="row">持ち物</th>
                         <td>ノートパソコン、またはiPadなど<br/>各自やりたいことを持参する</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">WiFi</th>
+                        <td>用意はしていますが、非常に繋がりにくい状態となっています。<br/>できるだけインターネットを使わなくてもできるようにしてください。</td>
                     </tr>
                   </tbody>
                 </table>

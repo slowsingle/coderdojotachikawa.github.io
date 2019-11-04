@@ -7,6 +7,14 @@
     </h4>
     comming soon...
     <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
+      パソコンの準備
+    </h4>
+    <p>
+      以下のソフトをインストールして来てください。<br/>
+      ・Google Chrome（<a href="https://www.google.com/chrome/">https://www.google.com/chrome/</a>）<br/>
+      ・Scratch オフラインエディタ（<a href="https://scratch.mit.edu/download">https://scratch.mit.edu/download</a>）<br/>
+    </p>
+    <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
         CoderDojo の楽しみ方
     </h4>
     comming soon...
