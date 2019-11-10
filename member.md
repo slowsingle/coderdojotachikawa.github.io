@@ -65,7 +65,7 @@
   </div>
   <div class="card col-md-12 mt-2">
     <div class="card-body">
-      <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">こたやん</h5>
+      <h5 class="card-title"><img src="/assets/images/profile/pr-kota.jpg" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">こたやん</h5>
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-primary">小平メンター</span>
       <span class="badge badge-primary">たまみらメンター</span>
@@ -86,7 +86,7 @@
   </div>
   <div class="card col-md-12 mt-2">
     <div class="card-body">
-      <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">なかうえ</h5>
+      <h5 class="card-title"><img src="/assets/images/profile/pr-naka.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">なかうえ</h5>
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-primary">たまみらチャンピオン（主宰）</span>
       <span class="badge badge-primary">昭島チャンピオン（主宰）</span>
@@ -109,7 +109,7 @@
   </div>
   <div class="card col-md-12 mt-2">
     <div class="card-body">
-      <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">もっさん</h5>
+      <h5 class="card-title"><img src="/assets/images/profile/pr-tsuji.webp" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">もっさん</h5>
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-primary">たまみらメンター</span>
       <span class="badge badge-primary">昭島メンター</span>

@@ -4,7 +4,7 @@ layout: default
 
 <div class="container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 mb-2">
             <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
                 開催予定
             </h4>
@@ -17,7 +17,7 @@ layout: default
         </div>
      </div>
      <div class="row">
-        <div class="col-md-6" style="margin-bottom: 10px;">
+        <div class="col-md-6 mb-2" style="margin-bottom: 10px;">
             <div class="card">
               <div class="card-body">
                     <a href="https://coderdojo-tachikawa.connpass.com/"><img src="/assets/images/event_theme.png" class="img-fluid mb-4"></a>
@@ -40,7 +40,7 @@ layout: default
               </div>
             </div>
         </div>
-        <div class="col-md-6" style="margin-bottom: 10px;" id="to-table">
+        <div class="col-md-6 mb-2" id="to-table">
             <div class="card" id="first-card" style="display:none;">
                 <div class="card-body">
                 <h5 class="card-title" style="text-align:center; background-color:#FFAAAA; border-radius: 5px; padding:10px 0px 0px 10px;"><label id="to_eventTitle"></label></h5>
@@ -78,7 +78,7 @@ layout: default
                 </div>
             </div>
         </div>
-        <div class="col-md-6" id="nx-table">
+        <div class="col-md-6 mb-2" id="nx-table">
             <div class="card" id="second-card" style="display:none;">
                 <div class="card-body">
                     <h5 class="card-title" style="text-align:center; background-color:#FFFF77; border-radius: 5px; padding:10px 0px 0px 10px;"><label id="nx_eventTitle"></label></h5>
@@ -116,7 +116,7 @@ layout: default
                 </div>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 mb-2">
             <div class="card" id="second-card">
                 <div class="card-body">
                     <h5 class="card-title" style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
