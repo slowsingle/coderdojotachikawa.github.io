@@ -27,7 +27,7 @@
         <td>エンジニア職</td><td align="right" style="width: 50px;">4人</td>
       </tr>
       <tr>
-        <td>事務職</td><td align="right" style="width: 50px;">1人</td>
+        <td>事務職</td><td align="right" style="width: 50px;">2人</td>
       </tr>
       <tr>
         <td>学生</td><td align="right" style="width: 50px;">1人</td>
@@ -171,9 +171,6 @@
       <span class="badge badge-danger">女性</span>
       <span class="badge badge-info">2019年11月から参加</span>
       <span class="badge badge-info">事務職</span>
-      <span class="badge badge-warning">Scratch</span>
-      <span class="badge badge-warning">HTML</span>
-      <span class="badge badge-warning">CSS</span>
       <p class="card-text mt-2">
       </p>
     </div>
