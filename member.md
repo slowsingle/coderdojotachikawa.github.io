@@ -12,13 +12,13 @@
     </p>
     <table border="1" style="border-collapse: collapse">
       <tr>
-        <td rowspan="6">メンバー数</td><td rowspan="6" align="right" style="width: 50px;">7人</td><td colspan="2" align="center">男女別</td>
+        <td rowspan="8">メンバー数</td><td rowspan="8" align="right" style="width: 50px;">8人</td><td colspan="2" align="center">男女別</td>
       </tr>
       <tr>
         <td>男性</td><td align="right" style="width: 50px;">5人</td>
       </tr>
       <tr>
-        <td>女性</td><td align="right" style="width: 50px;">2人</td>
+        <td>女性</td><td align="right" style="width: 50px;">3人</td>
       </tr>
       <tr>
         <td colspan="2" align="center">職種別</td>
@@ -27,7 +27,13 @@
         <td>エンジニア職</td><td align="right" style="width: 50px;">4人</td>
       </tr>
       <tr>
-        <td>事務職</td><td align="right" style="width: 50px;">3人</td>
+        <td>事務職</td><td align="right" style="width: 50px;">1人</td>
+      </tr>
+      <tr>
+        <td>学生</td><td align="right" style="width: 50px;">1人</td>
+      </tr>
+      <tr>
+        <td>その他</td><td align="right" style="width: 50px;">1人</td>
       </tr>
     </table>
     ※エンジニア職：IT関係で仕事をしている人
@@ -151,7 +157,7 @@
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2019年10月から参加</span>
-      <span class="badge badge-info">事務職</span>
+      <span class="badge badge-info">その他</span>
       <span class="badge badge-warning">Scratch</span>
       <span class="badge badge-warning">javascript</span>
       <p class="card-text mt-2">
@@ -168,6 +174,17 @@
       <span class="badge badge-warning">Scratch</span>
       <span class="badge badge-warning">HTML</span>
       <span class="badge badge-warning">CSS</span>
+      <p class="card-text mt-2">
+      </p>
+    </div>
+  </div>
+  <div class="card col-md-12 mt-2">
+    <div class="card-body">
+      <h5 class="card-title"><img src="/assets/images/profile/female.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">みうら</h5>
+      <span class="badge badge-primary">立川メンター</span>
+      <span class="badge badge-danger">女性</span>
+      <span class="badge badge-info">2019年11月から参加</span>
+      <span class="badge badge-info">学生</span>
       <p class="card-text mt-2">
       </p>
     </div>
