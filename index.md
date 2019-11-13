@@ -5,6 +5,9 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col-md-12 mb-2">
+            当ホームページはリニューアル作業中です。<br/>
+            コンテンツを随時増やしていきます。不明点などはお問い合わせにてご連絡ください。<br/>
+            <br/>
             <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
                 開催予定
             </h4>
