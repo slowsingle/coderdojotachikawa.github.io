@@ -144,4 +144,14 @@ layout: default
             </p>
         </div>
     </div>
+    <div class="row">
+        <div class="col-md-12">
+            <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
+                協賛
+            </h4>
+            <p>
+                <a href="http://www.tachikawa-shakyo.jp/coder-tachikawa/"><img src="/assets/images/josei.jpg"/></a>
+            </p>
+        </div>
+    </div>
 </div>
