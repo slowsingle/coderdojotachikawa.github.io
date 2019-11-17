@@ -9,6 +9,13 @@ layout: default
             コンテンツを随時増やしていきます。不明点などはお問い合わせにてご連絡ください。<br/>
             <br/>
             <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
+                子どもが活躍できる場作りをしています
+            </h4>
+            <p>
+                プログラミングをして作成したゲームやアニメーションなどの作品を発表ができる場です。<br/>
+                多くの人に頑張りを見てもことができるのと、フィードバックを得ることによって更によりよい作品づくりを促せます。<br/>
+            </p>
+            <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
                 開催予定
             </h4>
             <p>
