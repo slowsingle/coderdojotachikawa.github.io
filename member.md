@@ -177,7 +177,7 @@
   </div>
     <div class="card col-md-12 mt-2">
     <div class="card-body">
-      <h5 class="card-title"><img src="/assets/images/profile/female.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">福ちゃん（福田）</h5>
+      <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">福ちゃん（福田）</h5>
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-danger">男性</span>
       <span class="badge badge-info">2019年12月から参加</span>
@@ -200,7 +200,7 @@
   </div>
     <div class="card col-md-12 mt-2">
     <div class="card-body">
-      <h5 class="card-title"><img src="/assets/images/profile/female.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">どうまえ</h5>
+      <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">どうまえ</h5>
       <span class="badge badge-primary">立川メンター</span>
       <span class="badge badge-danger">男性</span>
       <span class="badge badge-info">2019年12月から参加</span>
