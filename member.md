@@ -179,7 +179,7 @@
     <div class="card-body">
       <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">福ちゃん（福田）</h5>
       <span class="badge badge-primary">立川メンター</span>
-      <span class="badge badge-danger">男性</span>
+      <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2019年12月から参加</span>
       <span class="badge badge-info">エンジニア職</span>
       <span class="badge badge-success">登山好き</span>
@@ -202,7 +202,7 @@
     <div class="card-body">
       <h5 class="card-title"><img src="/assets/images/profile/male.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">どうまえ</h5>
       <span class="badge badge-primary">立川メンター</span>
-      <span class="badge badge-danger">男性</span>
+      <span class="badge badge-secondary">男性</span>
       <span class="badge badge-info">2019年12月から参加</span>
       <span class="badge badge-info">エンジニア職</span>
       <span class="badge badge-success">映画好き</span>
