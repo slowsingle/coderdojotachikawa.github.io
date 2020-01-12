@@ -175,6 +175,52 @@
       </p>
     </div>
   </div>
+    <div class="card col-md-12 mt-2">
+    <div class="card-body">
+      <h5 class="card-title"><img src="/assets/images/profile/female.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">福ちゃん（福田）</h5>
+      <span class="badge badge-primary">立川メンター</span>
+      <span class="badge badge-danger">男性</span>
+      <span class="badge badge-info">2019年12月から参加</span>
+      <span class="badge badge-info">エンジニア職</span>
+      <span class="badge badge-success">登山好き</span>
+      <span class="badge badge-success">音楽ライブ好き</span>
+      <span class="badge badge-success">映画鑑賞好き</span>
+      <span class="badge badge-success">黒パグ好き</span>
+      <span class="badge badge-warning">COBOL</span>
+      <span class="badge badge-warning">PL/I</span>
+      <span class="badge badge-warning">C</span>
+      <span class="badge badge-warning">VBA</span>
+      <span class="badge badge-warning">HTML</span>
+      <span class="badge badge-warning">python</span>
+      <p class="card-text mt-2">
+        仕事は金融系システムの企画やプロジェクトマネージャーをしています、3Dプリンタが出た当初すぐに飛びつきゼロから組み立てたりするなど、やりたいと思ったらすぐ動いてしまいます。<br/>
+        scratchもさっそく興味もったので、こどもたちと一緒に、びっくりするようなもの作りたいと思っています。<br/>
+      </p>
+    </div>
+  </div>
+    <div class="card col-md-12 mt-2">
+    <div class="card-body">
+      <h5 class="card-title"><img src="/assets/images/profile/female.png" class="card-img-top mr-3" alt="メンバー" style="width: 80px;border-radius: 50%;">どうまえ</h5>
+      <span class="badge badge-primary">立川メンター</span>
+      <span class="badge badge-danger">男性</span>
+      <span class="badge badge-info">2019年12月から参加</span>
+      <span class="badge badge-info">エンジニア職</span>
+      <span class="badge badge-success">映画好き</span>
+      <span class="badge badge-success">筋トレ好き</span>
+      <span class="badge badge-success">ダーツ好き</span>
+      <span class="badge badge-success">ゲーム好き</span>
+      <span class="badge badge-warning">PHP</span>
+      <span class="badge badge-warning">javascript</span>
+      <span class="badge badge-warning">HTML</span>
+      <span class="badge badge-warning">CSS</span>
+      <span class="badge badge-warning">python</span>
+      <p class="card-text mt-2">
+        仕事ではWEBサイトやWEBアプリの開発をしています。<br/>
+        開発だけでなく、教育にも興味があります。<br/>
+        プログラミング以外のことでもお気軽に声をかけてください。<br/>
+      </p>
+    </div>
+  </div>
   <!--
   <div class="card col-md-12 mt-2">
     <div class="card-body">
