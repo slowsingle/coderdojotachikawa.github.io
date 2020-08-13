@@ -8,7 +8,7 @@ defaults:
 
 title: 子どものためのプログラミング道場
 subtitle: CoderDojo 立川
-avatar: ../assets/images/1.jpg
+avatar: ../assets/images/logo.png
 github:
   owner_gravatar_url: https://github.com/CoderDojoTachikawa
 
@@ -35,7 +35,7 @@ menu:
     icon: ""
 
   - text: ご支援、ご協力のお願い（会計報告）
-    link: /contact
+    link: /accounting
     icon: ""
 
   - text: お問い合わせ
@@ -45,9 +45,9 @@ menu:
 
 # Socialmedia Icons
 social_icons:
-#  - name: facebook
-#    link: https://www.facebook.com/CoderDojoTachikawa
-#    icon: fab fa-facebook-square
+  - name: facebook
+    link: https://www.facebook.com/CoderDojoTachikawa
+    icon: fab fa-facebook-square
 
   - name: twitter
     link: https://twitter.com/CoderDojoTckw
