@@ -1,0 +1,16 @@
+---
+layout: style
+---
+
+@import './_scss/root/variables';
+@import './_scss/root/functions';
+@import './_scss/root/mixins';
+@import './_scss/root/root';
+
+@import './_scss/main';
+
+@import './_scss/includes/left';
+@import './_scss/includes/right';
+@import './_scss/includes/header';
+@import './_scss/includes/footer';
+@import './_scss/includes/content';
